@@ -4,14 +4,12 @@
 	background-image: url(../img/fondo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 650px;
-	height: 750px;
 }
 
 .logo{
 	width: 40%;
 	height: 38%;
-	padding-left: 46%;
+	padding-left: 31%;
 	padding-bottom: 9%;
 }
 
@@ -19,24 +17,25 @@
 	background-color: transparent;
 	border-color: #FFF;
 	color: #EC008C;
-	font-size: 150%;
-	margin-right: 10px;
-	width: 145px;
- 	height: 70px;
+	font-size: 70%;
+	margin-right: 20px;
+	width: 90px;
+ 	height: 40px;
  	border-radius: 7%;
 }
 .btnder {
  	background-color: #EC008C;
  	color: #FFF;
- 	font-size: 150%;
- 	margin-left: 10px;
- 	width: 145px;
- 	height: 70px;
+ 	font-size: 70%;
+ 	margin-left: 20px;
+ 	width: 90px;
+ 	height: 40px;
  	border-radius: 7%;
 
 }
 .botones {
-	margin-top: 80%;
-	margin-left: 45%;
-	display: inline-block;
+	margin-top: 50%;
+	margin-left: 20%;
 }
+
+/*Sign up page */ 
