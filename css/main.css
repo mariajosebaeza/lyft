@@ -1,0 +1,43 @@
+/* Star page */ 
+
+.backgroundimg {
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 650px;
+	height: 750px;
+}
+
+.logo{
+	width: 40%;
+	height: 38%;
+	padding-left: 32%;
+	padding-bottom: 9%;
+}
+
+
+.btnizq {
+	background-color: transparent;
+	border-color: #FFF;
+	color: #FFF;
+	font-size: 100%;
+	margin-right: 10px;
+	width: 110px;
+ 	height:50px;
+}
+.btnder {
+ 	background-color: #EC008C;
+ 	color: #FFF;
+ 	font-size: 100%;
+ 	margin-left: 10px;
+ 	width: 110px;
+ 	height:50px;
+
+}
+
+.btn-group {
+ 	padding-left: 36%;
+ 	padding-top: 52%;
+ 	display: inline-block;
+}
+
