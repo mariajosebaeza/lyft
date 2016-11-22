@@ -11,33 +11,32 @@
 .logo{
 	width: 40%;
 	height: 38%;
-	padding-left: 32%;
+	padding-left: 46%;
 	padding-bottom: 9%;
 }
-
 
 .btnizq {
 	background-color: transparent;
 	border-color: #FFF;
-	color: #FFF;
-	font-size: 100%;
+	color: #EC008C;
+	font-size: 150%;
 	margin-right: 10px;
-	width: 110px;
- 	height:50px;
+	width: 145px;
+ 	height: 70px;
+ 	border-radius: 7%;
 }
 .btnder {
  	background-color: #EC008C;
  	color: #FFF;
- 	font-size: 100%;
+ 	font-size: 150%;
  	margin-left: 10px;
- 	width: 110px;
- 	height:50px;
+ 	width: 145px;
+ 	height: 70px;
+ 	border-radius: 7%;
 
 }
-
-.btn-group {
- 	padding-left: 36%;
- 	padding-top: 52%;
- 	display: inline-block;
+.botones {
+	margin-top: 80%;
+	margin-left: 45%;
+	display: inline-block;
 }
-
