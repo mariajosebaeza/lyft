@@ -7,35 +7,18 @@
 }
 
 .logo{
-	width: 40%;
-	height: 38%;
+	width: 72%;
+	height: 61%;
 	padding-left: 31%;
 	padding-bottom: 9%;
 }
 
+.sbotones {
+	margin-top: 75%;
+	margin-left: 15%;
+} 
+
 .btnizq {
-	background-color: transparent;
-	border-color: #FFF;
-	color: #EC008C;
-	font-size: 70%;
-	margin-right: 20px;
-	width: 90px;
- 	height: 40px;
- 	border-radius: 7%;
+	border-color: #fff;
 }
-.btnder {
- 	background-color: rgba(239,1,124,1);
- 	color: #FFF;
- 	font-size: 70%;
- 	margin-left: 20px;
- 	width: 90px;
- 	height: 40px;
- 	border-radius: 7%;
-
-}
-.botones {
-	margin-top: 50%;
-	margin-left: 20%;
-}
-
 /*Sign up page */ 
