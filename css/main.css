@@ -1,11 +1,10 @@
-/* Start page */ 
+/* Start page styles */ 
 
 .backgroundimg {
 	background-image: url(../img/fondo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
 .logo{
 	width: 72%;
 	height: 61%;
@@ -21,13 +20,37 @@
 .btnizq {
 	border-color: #fff;
 }
-/*Sign up page */ 
+/*Sign up page styles */ 
 
 .titlesignup {
 	padding-top: 5%;
+	padding-left: 5%;
 }
 
-.iconleft{
-	padding-top: 5%;
-	padding-left: 3%;
+.iconleft {
+	margin-top: 19%;
+	margin-left: 7%;
+}
+
+.di {
+	display: inline-block;
+}
+.mg-rg {
+	padding-right: 25%;
+	padding-top: 20%;
+}
+.footernext {
+	padding-top: 70%;
+	padding-left: 20%;
+}
+.btnnext{
+	width: 50%;
+}
+.secpais {
+	padding-left: 10%;
+	padding-top: 15%;
+}
+.bandera{
+	width: 7%;
+	height: 5%;
 }
