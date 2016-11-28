@@ -1,0 +1,9 @@
+/*Countries style page */ 
+.banderas{
+	width: 18%; 
+	height:9%;
+}
+
+.paises {
+	display: inline-block;
+}
