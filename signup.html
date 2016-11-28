@@ -3,43 +3,47 @@
 <head>
 	<meta charset="UTF-8">
 	<title> Sign Up </title>
-	<link rel="stylesheet" type="text/css" href="css/materialize.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<!-- materialize.css -->
+	<link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
 	<header>
 		<div class="container">
 			<div class="row">
 				<div class="col s12">
-					<a href="index.html" class="mg-rg"> <i class="material-icons medium">keyboard_arrow_left</i> </a>
-					<h2 class="center-align di"> Sign Up </h2>
+					<a href="index.html"> <i class="material-icons small">keyboard_arrow_left</i> </a>
+					<h3 class="center-align di"> Sign Up </h3>
 				</div>
 			</div>
-			<h5 class="center-align"> Unirse ahora para obtener crédito gratis </h5>
+			<p class="center-align"> Unirse ahora para obtener crédito gratis </p>
 			<hr>
 		</div>
 	</header>
 	<section>
-			
-			<div class="container">
+		<div class="container">
 			<div class="row">
-				<div class="col s7">
-					
+				<div class="col s4">
+					<!-- input select conuntries --> 
+
 					<!-- input select telephone --> 
-					<input type="Codigo de area" name="código área" class="numtelefono">
+					<div class="col s8">
+						<input type="telp" name="telefono" placeholder="+569 xxxxxxxx">
+					</div>
 				</div>
-			</div> 
-		      
-			<br>
-			<h5 class="center-align"> Enviaremos un mensaje de texto para verificar su teléfono </h5>
+				<br>
+			<p class="center-align"> Enviaremos un mensaje de texto para verificar su teléfono </p>
+			</div>
 
-
-		</section>
-	<footer class="footernext">
-		<a class="waves-effect waves-light btn pink lighten-1 btnnext" href="signup_user.html"> Next </a>
-	</footer>
-
+			
+		</section>	
+			<footer class="sectnext">
+				<div class="row">
+				<a class="waves-effect waves-light btn-large pink lighten-1 btnnext col s12" href="signup_user.html"> Next </a>
+			</footer>
+		<!--Import jQuery before materialize.js-->	
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script type="text/javascript" src="js/materialize.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
