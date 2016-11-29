@@ -1,28 +1,5 @@
 /*Sign up page styles */ 
 
-.titlesignup {
-	padding-top: 5%;
-	padding-left: 5%;
-}
-
-.iconleft {
-	margin-top: 19%;
-	margin-left: 7%;
-}
-
-.secpais {
-	margin-top: 4%;
-	padding-left: 2%;
-	padding-top: 1%;
-	color: #ec407a;
-}
-.bandera{
-	width: 7%;
-	height: 5%;
-}
-.banpais {
-	display: inline-block;
-}
 .numtelefono { 
 	margin-top: 5%;
 	margin-left: 1%;
