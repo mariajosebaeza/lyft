@@ -1,10 +1,13 @@
 /*Sign up page styles */ 
 
-.numtelefono { 
-	margin-top: 5%;
+.telefono { 
+	margin-top: 2%;
 	margin-left: 1%;
-	border-color: gray;
+}
+.codigo{
+	margin-top: 2%;
+	margin-right: 1%;
 }
 .sectnext{
-	margin-top: 38%;
+	margin-top: 30%;
 }
