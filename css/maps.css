@@ -1,0 +1,17 @@
+.barralogo{
+	background-color: transparent;
+	position: absolute; 
+	z-index: 3;
+	box-shadow: none;
+	
+}
+.img-logo {
+	max-width: 36%;
+}
+.iconoaccount{
+	max-width: 20%;
+}
+
+.driver{
+background-color: #90caf9;
+}
